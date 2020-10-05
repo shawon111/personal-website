@@ -1,17 +1,6 @@
 // mixItUp plugin
 var mixer = mixitup('.grid-portfolio-container');
 
-//scrollify plugin
-$(function() {
-          $.scrollify({
-            section : ".scrollify",
-            setHeights: false,
-            updateHash: false,
-            scrollSpeed: 500,  
-          });
-        });
-
-
 //Humburger menu
 
 function showMenu(){
